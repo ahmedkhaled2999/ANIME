@@ -1,0 +1,1 @@
+import{c as r,d as t,f as a,i as e}from"./chunk-NX2OY7UJ.js";var n=r("animeCharacterAnimation",[e(":enter",[a({opacity:0,transform:"scale(0.5)"}),t("300ms ease-in-out",a({opacity:1,transform:"scale(1)"}))]),e(":leave",[a({opacity:1,transform:"scale(1)"}),t("300ms ease-in-out",a({opacity:0,transform:"scale(0.5)"}))])]);export{n as a};

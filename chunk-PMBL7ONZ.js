@@ -1,0 +1,1 @@
+import{X as n,Xa as o,Ya as a,ib as i,mb as r}from"./chunk-XP6ZYIC6.js";import"./chunk-TMC7WMLO.js";var c=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["app-wath"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,s){e&1&&(o(0,"p"),i(1,"wath works!"),a())}})}}return t})();export{c as WathComponent};

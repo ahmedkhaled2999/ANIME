@@ -1,0 +1,1 @@
+import{X as n,Xa as a,Ya as o,ib as i,mb as r}from"./chunk-XP6ZYIC6.js";import"./chunk-TMC7WMLO.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-manga"]],standalone:!0,features:[r],decls:2,vars:0,template:function(t,p){t&1&&(a(0,"p"),i(1,"manga works!"),o())}})}}return e})();export{c as MangaComponent};
